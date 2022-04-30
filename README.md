@@ -1,6 +1,6 @@
 # Shuffle the Puzle
 
-A puzzle game that that implement basic search algorithms (see features below).
+A puzzle game that implements basic search algorithms (see features below).
 
 features:
 
